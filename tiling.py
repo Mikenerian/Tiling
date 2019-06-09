@@ -20,6 +20,3 @@ if tiles[tiles.shape[0]-2,tiles.shape[1]-1] == 0:
     tiles[tiles.shape[0]-1,tiles.shape[1]-1] = 1
 else:
     tiles[tiles.shape[0]-1,tiles.shape[1]-1] = 0
-
-
-print(tiles)
